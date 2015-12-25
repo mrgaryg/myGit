@@ -1,2 +1,2 @@
 # myGit
-My Git scripts
+My Git config scripts

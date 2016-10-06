@@ -6,7 +6,8 @@
 	name = Gary Gutman
 [user]
 	email = mrgaryg68@gmail.com
-
+[credential]
+	helper = wincred
 [mergetool]
     prompt = false
     keepBackup = false
